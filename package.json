@@ -1,0 +1,14 @@
+{
+  "name": "reindexer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Noah Pryor <noah@noahpryor.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.1",
+    "googleapis": "^110.0.0",
+    "request": "^2.88.2",
+    "uuid": "^9.0.0"
+  }
+}
